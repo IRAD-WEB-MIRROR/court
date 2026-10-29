@@ -1,0 +1,48 @@
+{
+  "notices": [
+    {
+      "date": "2026-10-01",
+      "title": {
+        "en": "Register of pending cases published online",
+        "ir": "Karaluuchu ishterdin reestri onlayn jarıyalandı",
+        "ru": "Реестр рассматриваемых дел опубликован онлайн"
+      },
+      "text": {
+        "en": "From October 2026 the register of cases pending before the Supreme Court and the Talas District Court is published on this site and updated each week. See the <a href=\"/register.html\">register</a>.",
+        "ir": "2026-jıldın oktyabrınan tartıp Jogorku Sotto jana Talas aymaktık sotunda karaluuchu ishterdin reestri bul saytta jarıyalanat jana ar jumada jañılanat. <a href=\"/register.html\">Reestrdi</a> karañız.",
+        "ru": "С октября 2026 года реестр дел, находящихся на рассмотрении Верховного суда и Таласского районного суда, публикуется на этом сайте и обновляется еженедельно. См. <a href=\"/register.html\">реестр</a>."
+      },
+      "signed": {
+        "en": "The Registrar",
+        "ir": "Kanselyariyanın bashchısı",
+        "ru": "Руководитель канцелярии"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "title": {
+        "en": "Sittings in November 2026",
+        "ir": "2026-jıldın noyabrındagı oturumdar",
+        "ru": "Заседания в ноябре 2026 года"
+      },
+      "text": {
+        "en": "The Court sits on 11, 18 and 25 November 2026. Lists are posted in the Hall of Justice and in the register two days before each sitting.",
+        "ir": "Sot 2026-jıldın 11, 18 jana 25-noyabrında oturum ötköröt. Tizmeler ar bir oturumdan eki kün murun Adilet Üyündö jana reestrde ilinet.",
+        "ru": "Суд заседает 11, 18 и 25 ноября 2026 года. Списки вывешиваются во Дворце правосудия и в реестре за два дня до каждого заседания."
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "title": {
+        "en": "Bar examination: spring session 2027",
+        "ir": "Advokattık sınak: 2027-jılkı jazgı sessiya",
+        "ru": "Адвокатский экзамен: весенняя сессия 2027 года"
+      },
+      "text": {
+        "en": "Applications for the spring session are received by the Registry until 31 January 2027. See <a href=\"/bar.html\">admission to the bar</a>.",
+        "ir": "Jazgı sessiyaga arızdardı Kanselyariya 2027-jıldın 31-yanvarına cheyin kabıl alat. <a href=\"/bar.html\">Advokaturaga kabıl aluu</a> boyuncha karañız.",
+        "ru": "Заявления на весеннюю сессию принимаются канцелярией до 31 января 2027 года. См. <a href=\"/bar.html\">допуск к адвокатуре</a>."
+      }
+    }
+  ]
+}

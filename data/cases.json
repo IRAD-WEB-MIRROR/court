@@ -1,0 +1,178 @@
+{
+  "updated": "2026-10-29",
+  "courts": [
+    {
+      "id": "sc",
+      "name": {
+        "en": "Supreme Court",
+        "ir": "Jogorku Sot",
+        "ru": "Верховный суд"
+      }
+    },
+    {
+      "id": "tdc",
+      "name": {
+        "en": "Talas District Court",
+        "ir": "Talas aymaktık sotu",
+        "ru": "Таласский районный суд"
+      }
+    }
+  ],
+  "cases": [
+    {
+      "no": "SC-P 3/2026",
+      "court": "sc",
+      "filed": "2026-06-18",
+      "title": {
+        "en": "In re the Elective Governor Acts (Inability of the Governor)",
+        "ir": "Shaylanuuchu gubernator jönündögü mıyzamdar boyuncha (Gubernatordun mümkünchülügü joktugu)",
+        "ru": "По делу о Законах о выборном губернаторе (неспособность губернатора)"
+      },
+      "kind": {
+        "en": "Petition for constitutional review, on behalf of three members of the Territorial Legislature",
+        "ir": "Aymaktık mıyzam chıgaruu organının üch deputatının atınan konstitutsiyalık közömöl boyuncha arız",
+        "ru": "Ходатайство о конституционном контроле от имени трёх депутатов Территориального законодательного собрания"
+      },
+      "counsel": {
+        "en": "Counsel: N. Abdykadyr, V. Kuzmenko",
+        "ir": "Advokattar: N. Abdykadyr, V. Kuzmenko",
+        "ru": "Представители: Н. Абдыкадыр, В. Кузьменко"
+      },
+      "status": {
+        "en": "Filed. Government's written answer received 15 October 2026, 15:40. Applicants' request to fix a hearing date received 27 October 2026. Not listed for hearing.",
+        "ir": "Kabıl alıngan. Ökmöttün jazuu jüzündögü joobu 2026-jıldın 15-oktyabrında, 15:40ta kelgen. Arızchılardın karoo kününö belgilöö tuuralu ötünüchü 2026-jıldın 27-oktyabrında kelgen. Karoogo koyulgan emes.",
+        "ru": "Поступило. Письменный ответ правительства получен 15 октября 2026 года в 15:40. Ходатайство заявителей о назначении даты слушания получено 27 октября 2026 года. К слушанию не назначено."
+      }
+    },
+    {
+      "no": "SC-A 21/2026",
+      "court": "sc",
+      "filed": "2026-07-09",
+      "title": {
+        "en": "Appeal from the Talas District Court (lease of irrigated land, Chu District)",
+        "ir": "Talas aymaktık sotunan apellyatsiya (sugarıluuchu jerdi ijaraga aluu, Chüy aymagı)",
+        "ru": "Апелляция на решение Таласского районного суда (аренда орошаемых земель, Чуйский район)"
+      },
+      "kind": {
+        "en": "Civil appeal. Parties: K. A. and others v. a Chu District farm cooperative",
+        "ir": "Jarandık apellyatsiya. Taraptar: K. A. jana bashkalar Chüy aymagının dıykan kooperativine karshı",
+        "ru": "Гражданская апелляция. Стороны: К. А. и другие против фермерского кооператива Чуйского района"
+      },
+      "status": {
+        "en": "Listed for hearing.",
+        "ir": "Karoogo koyulgan.",
+        "ru": "Назначено к слушанию."
+      },
+      "next": "2026-11-11"
+    },
+    {
+      "no": "SC-A 24/2026",
+      "court": "sc",
+      "filed": "2026-08-14",
+      "title": {
+        "en": "Appeal from the Talas District Court (fraud)",
+        "ir": "Talas aymaktık sotunan apellyatsiya (aldamchılık)",
+        "ru": "Апелляция на решение Таласского районного суда (мошенничество)"
+      },
+      "kind": {
+        "en": "Criminal appeal against conviction and sentence. Appellant: R. T.",
+        "ir": "Ayıptoo ökümünö jana jazaga karshı kılmısh apellyatsiyası. Apellyant: R. T.",
+        "ru": "Уголовная апелляция на приговор и наказание. Апеллянт: Р. Т."
+      },
+      "status": {
+        "en": "Listed for hearing.",
+        "ir": "Karoogo koyulgan.",
+        "ru": "Назначено к слушанию."
+      },
+      "next": "2026-11-18"
+    },
+    {
+      "no": "SC-C 6/2026",
+      "court": "sc",
+      "filed": "2026-09-02",
+      "title": {
+        "en": "Application to enforce an arbitration award (supply of transformer equipment)",
+        "ir": "Arbitraj chechimin atkaruu boyuncha arız (transformator jabdıktarın jetkirüü)",
+        "ru": "Заявление об исполнении арбитражного решения (поставка трансформаторного оборудования)"
+      },
+      "kind": {
+        "en": "Commercial. A foreign supplier v. a Nurzhan contractor",
+        "ir": "Kommertsiyalık. Chet eldik jetkirüüchü Nurzhan pudratchısına karshı",
+        "ru": "Коммерческое. Иностранный поставщик против нуржанского подрядчика"
+      },
+      "status": {
+        "en": "Written submissions due.",
+        "ir": "Jazuu türündögü tüshündürmölör kütülöt.",
+        "ru": "Ожидаются письменные объяснения."
+      },
+      "next": "2026-12-02"
+    },
+    {
+      "no": "TDC-C 1307/2026",
+      "court": "tdc",
+      "filed": "2026-09-30",
+      "title": {
+        "en": "Talas Commercial Development Group v. Liberty Forum",
+        "ir": "Talas Commercial Development Group Liberty Forumga karshı",
+        "ru": "Talas Commercial Development Group против Liberty Forum"
+      },
+      "kind": {
+        "en": "Commercial: use of the name Tulpar and the winged-horse mark",
+        "ir": "Kommertsiyalık: Tulpar atın jana kanattuu at belgisin koldonuu",
+        "ru": "Коммерческое: использование названия «Тулпар» и знака крылатого коня"
+      },
+      "judge": {
+        "en": "Judge A. Mamytbekova",
+        "ir": "Sudya A. Mamytbekova",
+        "ru": "Судья А. Мамытбекова"
+      },
+      "status": {
+        "en": "Interim injunction refused on 12 October 2026. Adjourned.",
+        "ir": "Ubaktıluu tıyuu 2026-jıldın 12-oktyabrında chetke kagılgan. Kiyinkige kaldırılgan.",
+        "ru": "В обеспечительной мере отказано 12 октября 2026 года. Отложено."
+      },
+      "next": "2026-11-16"
+    },
+    {
+      "no": "TDC-A 214/2024",
+      "court": "tdc",
+      "filed": "2024-05-20",
+      "title": {
+        "en": "Arsha Books v. Department of Public Information",
+        "ir": "Arsha Books Kogomduk maalımat departamentine karshı",
+        "ru": "Arsha Books против Департамента общественной информации"
+      },
+      "kind": {
+        "en": "Administrative appeal against the suspension of registration DPI-P 0118/2009",
+        "ir": "DPI-P 0118/2009 kattoosun toktotuuga karshı administrativdik apellyatsiya",
+        "ru": "Административная жалоба на приостановление регистрации DPI-P 0118/2009"
+      },
+      "status": {
+        "en": "Pending.",
+        "ir": "Karaluuda.",
+        "ru": "На рассмотрении."
+      }
+    },
+    {
+      "no": "TDC-K 2291/2026",
+      "court": "tdc",
+      "filed": "2026-10-05",
+      "title": {
+        "en": "Prosecutor v. three defendants (theft of livestock, Kara-Buura District)",
+        "ir": "Prokuror üch ayıptaluuchuga karshı (mal uurdoo, Kara-Buura aymagı)",
+        "ru": "Прокурор против трёх обвиняемых (кража скота, район Кара-Буура)"
+      },
+      "kind": {
+        "en": "Criminal, with a jury",
+        "ir": "Kılmısh ishi, prisyajnıylar menen",
+        "ru": "Уголовное, с участием присяжных"
+      },
+      "status": {
+        "en": "Jury selection.",
+        "ir": "Prisyajnıylardı tandoo.",
+        "ru": "Отбор присяжных."
+      },
+      "next": "2026-11-09"
+    }
+  ]
+}
