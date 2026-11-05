@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-11-05",
   "courts": [
     {
       "id": "sc",
@@ -173,6 +173,27 @@
         "ru": "Отбор присяжных."
       },
       "next": "2026-11-09"
+    },
+    {
+      "no": "TDC-C 1352/2026",
+      "court": "tdc",
+      "filed": "2026-10-14",
+      "title": {
+        "en": "Usupov Tyres (sole trader) v. a Kara-Buura haulage firm",
+        "ir": "Usupov Shinaları (jeke ishker) Kara-Buuradagı jük tashuu firmasına karshı",
+        "ru": "«Шины Усупова» (ИП) против грузоперевозчика из Кара-Буура"
+      },
+      "kind": {
+        "en": "Civil: payment for lorry tyres supplied",
+        "ir": "Jarandık: jetkirilgen jük unaa shinaları üchün tölöm",
+        "ru": "Гражданское: оплата поставленных грузовых шин"
+      },
+      "status": {
+        "en": "Listed for hearing.",
+        "ir": "Karoogo koyulgan.",
+        "ru": "Назначено к слушанию."
+      },
+      "next": "2026-11-19"
     }
   ]
 }
